@@ -1,5 +1,6 @@
 package test.example.demo_test.repository;
 
+import org.springframework.stereotype.Repository;
 import test.example.demo_test.domain.Member;
 
 import java.util.*;
